@@ -17,15 +17,15 @@ consists of four edgelists, each representing the corpus for a specific period.
 
 2.- PAPER CODE – STM / Structural Topic Model
 Estimation followed the procedures described and presented by  Roberts ME, Stewart BM, Tingley D. stm: An R Package for Structural Topic
-Models. Journal of Statistical Software. 2019;91:1–40. doi:10.18637/jss.v091.i02.
+Models. Journal of Statistical Software. 2019;91:1–40. https://doi:10.18637/jss.v091.i02
 
 Data Availability:
 The following code reproduces the STM (Structural Topic Model) results.
 The dataset is publicly available on the GitHub repository of the paper and 
 consists of four tables, each representing the corpus for a specific period.
 
-**
-Note: The data has been edited to ensure anonymity and to comply with the data use requirements of data providers (SciSciNet and OpenAlex).**
+**Note: The data has been edited to ensure anonymity and to comply with the data use requirements of data providers (SciSciNet and OpenAlex).**
+
 
 
 # Acknowledgments 
