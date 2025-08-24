@@ -24,9 +24,8 @@ The following code reproduces the STM (Structural Topic Model) results.
 The dataset is publicly available on the GitHub repository of the paper and 
 consists of four tables, each representing the corpus for a specific period.
 
-
-# Note: The data has been edited to ensure anonymity
-# and to comply with the data use requirements of data providers (SciSciNet and OpenAlex).
+**
+Note: The data has been edited to ensure anonymity and to comply with the data use requirements of data providers (SciSciNet and OpenAlex).**
 
 
 # Acknowledgments 
