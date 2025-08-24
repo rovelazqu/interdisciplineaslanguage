@@ -1,3 +1,6 @@
 # Data and Code Repository
 
-This repository hosts the data and code used for the empirical analysis in _Interdiscipline as Language: A Structural Topic Model Approach to Academic Production in Sustainability Science_.
+This repository hosts the data and code used for the empirical analysis in _Interdiscipline as Language: A Structural Topic Model Approach to Academic Production in Sustainability Science_, by Roberto Velazquez-Quiroz, Julien Vanhulst, Alejandro Espinosa-Rada, and Roberto Cantillan (2025).
+
+# Materials
+
